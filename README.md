@@ -1,4 +1,4 @@
-# Tuiles-graphiques
+# Tuiles graphiques
 
 
 **Sci Fi Galaxy** est un projet de site web de publication de livres de science-fiction.
